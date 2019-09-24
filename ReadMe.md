@@ -66,7 +66,7 @@ import statsmodels as sm
 - %paste 获取剪切板的程式并运行
 - %cpaste 给予复制的空间
 - 终端快捷键
-![终端快捷键](./link_chilk.png)
+![终端快捷键](./link_chick.png)
 - 更多的魔术方法：%timeit检查执行时间
 - %quickref  %magic 探求所有特殊命令
 - %matplotlib 集成，绘画窗口不干扰命令窗口
